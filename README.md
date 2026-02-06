@@ -18,7 +18,7 @@ This tool scans specified Telegram groups and channels for VPN configuration str
 
 1. **Clone the repository**
    ```bash
-   git clone [<repo_url>](https://github.com/SapaAtayev/key-finder.git)
+   git clone https://github.com/SapaAtayev/key-finder.git
    cd key-finder
    ```
 
